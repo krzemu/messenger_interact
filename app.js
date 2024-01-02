@@ -1,0 +1,2 @@
+const messenger = new Messenger();
+
